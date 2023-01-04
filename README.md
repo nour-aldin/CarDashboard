@@ -1,4 +1,4 @@
-# cardashboard
+# CarDashboard
 
 > UI/UX Car Dashboard
 
@@ -10,12 +10,16 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 💻 Built With
+
+- **Vue**
+- **CSS**
+- **bootstrap**
+
+## 🎥 Demo
+
+
+https://user-images.githubusercontent.com/56984371/210592087-9d6788c9-f636-4eba-b65f-db7666e469a5.mp4
+
